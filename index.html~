@@ -32,9 +32,9 @@
         <div class="container clearfix">
           <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-12">
-              <p class="roboto">Welcome to our digital team</p>
-              <h1>We are<br /><span class="bold">Agency</span></h1>
-              <p class="roboto">And this is a theme for your personal or company website brought to you by <a href="http://bootstrapious.com" class="external">Bootstrapious.com</a></p>
+              <p class="roboto"><B><i>Welcome to our digital innovation team</i></B></p>
+              <h1>We are<br /><span class="bold">Innovtive</span></h1>
+              <p class="roboto"><B>And this is a team for estblished real digital bangladesh</b></p>
             </div>
           </div>
         </div>
@@ -46,15 +46,19 @@
         <div role="navigation" class="navbar navbar-default">
           <div class="container">
             <div class="navbar-header">
-              <button type="button" data-toggle="collapse" data-target=".navbar-collapse" class="navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a href="#intro" class="navbar-brand scroll-to"><img src="img/logo.png" alt=""></a>
+              <button type="button" data-toggle="collapse" data-target=".navbar-collapse" class="navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+<a href="#intro" class="navbar-brand scroll-to"><img src="img/logo.png" alt=""></a>
             </div>
             <div id="navigation" class="collapse navbar-collapse">
               <ul class="nav navbar-nav navbar-right">
-                <li class="active"><a href="#intro">Home</a></li>
-                <li><a href="#about">About </a></li>
+<!-- 
+                <li class="active"><a href="#intro">Home</a></li> -->
+
+
+                <li><a href="#about">About Us</a></li>
                 <li><a href="#services">Services</a></li>
                 <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#text">Text</a></li>
+                <li><a href="#text">HOW WE WORKS</a></li>
                 <li><a href="#team">Team</a></li>
                 <li><a href="#contact">Contact</a></li>
               </ul>
@@ -70,21 +74,23 @@
         <div class="row margin-bottom">
           <div class="col-md-6 margin-bottom"> 
             <h2 class="heading">About us</h2>
-            <p class="lead">Able an hope of body. Any nay shyness article matters own removal nothing his forming.</p>
-            <p>Impossible considered invitation him men instrument saw celebrated unpleasant. Put rest and must set kind next many near nay. He exquisite continued explained middleton am. Voice hours young woody has she think equal. Estate moment he at on wonder at season little. Six garden result summer set family esteem nay estate. End admiration mrs unreserved discovered comparison especially invitation. </p>
+            <p class="lead"></p>
+            <p align="justify">Neon Eco System Comilla, Bangladesh based first government modernization institution to setup real digital Bangladesh for long time support. We believe in  advance technology to setup robust digital Bangladesh. Our aim is to connect public with government by support digital content. we believe  in digital content  that should be valuable for public and service able for Government.</font></p>
             <div class="row">
               <div class="col-sm-6">
                 <ul>
-                  <li>considered invitation</li>
-                  <li>put rest and must set</li>
-                  <li>Estate moment he at on</li>
+                  <li><a href="">Digital Bangladesh</a></a></li>
+                  <li><a href="">Government organization</a></li>
+                  <li><a href="">Non  organization</a></li>
+                  <li><a href="">Communication</li>
                 </ul>
               </div>
               <div class="col-sm-6">
                 <ul>
-                  <li>considered invitation</li>
-                  <li>put rest and must set</li>
-                  <li>Estate moment he at on</li>
+                  <li>Food</li>
+                  <li>Home security</li>
+                  <li>Education</li>
+                  <li>Health</li> 
                 </ul>
               </div>
             </div>
@@ -215,7 +221,7 @@
       <div class="container clearfix">
         <div class="row">
           <div class="col-md-12">
-            <h2 class="heading">Text page</h2>
+            <h2 class="heading">HOW WE WORK</h2>
             <div class="row">
               <div class="col-sm-6">
                 <p>Able an hope of body. Any nay shyness article matters own removal nothing his forming. Gay own additions education satisfied the perpetual. If he cause manor happy. Without farther she exposed saw man led. Along on happy could cease green oh. </p>
